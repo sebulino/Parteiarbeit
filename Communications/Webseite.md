@@ -53,3 +53,41 @@ Ziel: Zugänglich sein, Personen vermitteln, Sympathie
 * Formular
 * Bundesgeschäftsstelle
 * Presseverteiler
+
+---
+
+## Menü V2
+### Programm
+#### (Aktuelles) Wahlprogramm
+#### Themen A-Z
+#### Grundsatzprogramm
+### Partei
+#### Vision & Mission (zusammenfassbar?)
+#### Arbeits- und Servicegruppen
+#### Geschichte
+### Personen
+#### Bundesvorstand
+#### Themenbeauftragte
+### Mitmachen (hervorgehoben durch Kontrastfarbe)
+
+---
+
+## Erste Seite V2
+### Haader/Stage
+* Video/Slideshow + Claim Text Overlay
+* Mini-Formular "Jetzt Mitglied werden"
+### Main Content
+* Teaser zu aktuellem Top-Thema (Seite, nicht Beitrag)
+### Letzte Beiträge
+* Drei Teaser zu den letzten drei Beiträgen (nicht PM)
+### Call-to-Action "Folgt uns"
+* Twitter
+* Instagram
+* Facebook
+* Newsletter(?)
+### Top Themenbereiche
+* 3-5 Teaser zu unseren Top-Themenbereichen
+### Aktionen
+* Teaser zu aktuelen Aktionen, Umfragen, Petitionen, die wir unterstützen.
+### Spenden
+* 3-6 Verschiedene Voreinstellungen
